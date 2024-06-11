@@ -1,4 +1,3 @@
-print("PythonProgram001.py is the first program to know print statements, type method, indexes, string functions and simple calculations and at last list of keywords.")
 # simple python program statements
 #Python printing function helps to print the characters in the console.
 print('Hi, Hello world..! I am preetham and now onwards I will start python programming as my career.')
