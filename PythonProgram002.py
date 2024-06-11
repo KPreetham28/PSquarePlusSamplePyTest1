@@ -1,4 +1,4 @@
-#Variable declaration and assignment
+#Variable declaration and assignment.
 kpt='Kompella Preetham Teja'
 kmr='karre Balayya Mahesh Reddy'
 print(kmr,'and',kpt,'are best friends.')
