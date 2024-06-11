@@ -1,3 +1,4 @@
+#done.
 #this is the program that happened in my tcs digital exam internal.
 def rearrange_word(word, num):
     # Check if the length of the word is divisible by the given number
