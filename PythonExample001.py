@@ -1,3 +1,4 @@
+print("this is one program which takes the input of string and number and it reverse based on the number")
 #this is the program that happened in my tcs digital exam internal.
 def rearrange_word(word, num):
     # Check if the length of the word is divisible by the given number
@@ -20,3 +21,5 @@ num = 4
 print("Original word:", word)
 print("Number of parts:", num)
 print("Rearranged word:", rearrange_word(word, num))
+
+print("end of program")
